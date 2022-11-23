@@ -13,8 +13,6 @@
 
 <summary>:+1: <b>Github Karma</b></summary><br/>
 
-[![Source Karma badge for @evereq](https://sourcekarma-og.vercel.app/api/evereq/github)](https://sourcekarma.vercel.app/nekores)
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nekores)
 
 <summary>:star: <b>GitHub Stars</b></summary><br/>
