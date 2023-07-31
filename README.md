@@ -1,4 +1,4 @@
-<img height="270" align="left" alt="GitHub followers" src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400/https://sajidullah.com/wp-content/uploads/2023/07/422.png" />
+<img height="290" align="left" alt="Profile Pic" src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400/https://sajidullah.com/wp-content/uploads/2023/07/422.png" />
 
 # Hello World!
 I am Sajid, a Front-End Web Developer & full-time freelancer.
