@@ -1,3 +1,5 @@
+<img height="255" align="left" alt="GitHub followers" src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400/https://sajidullah.com/wp-content/uploads/2023/07/422.png" />
+
 # Hello World!
 I am Sajid, a Front-End Web Developer & full-time freelancer.
 I am an experienced web developer with 8 years in freelancing, delivering exceptional results for international enterprises and clients. Proficient in front-end technologies, ensuring responsive, user-friendly websites. Skilled in HTML, CSS, JavaScript, Libraries and Frameworks of Javascript, and CMS platforms. Committed to delivering high-quality projects on time, leveraging a deep understanding of client needs and industry trends, and many more.
@@ -82,7 +84,6 @@ I am an experienced web developer with 8 years in freelancing, delivering except
 # Want to know more?
 
 [<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://sajidullah.com/wp-content/uploads/2023/07/Sajid-Ullah-updated-july-2023.pdf)
-
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
 <img alt="GitHub followers" src="https://visitor-badge.laobi.icu/badge?page_id=nekores" />
