@@ -75,7 +75,7 @@ I am an experienced web developer with 8 years in freelancing, delivering except
 ## Streaks:
 ![Static Badge](https://github-readme-streak-stats.herokuapp.com/?user=nekores)
 
-## Contributions:
+## Statistics:
 ![Static Badge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekores)
 
 
