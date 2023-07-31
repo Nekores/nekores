@@ -1,5 +1,5 @@
 # Hello World!
-I am Sajid, a Frot-End Web Developer & full-time freelancer.
+I am Sajid, a Front-End Web Developer & full-time freelancer.
 I am an experienced web developer with 8 years in freelancing, delivering exceptional results for international enterprises and clients. Proficient in front-end technologies, ensuring responsive, user-friendly websites. Skilled in HTML, CSS, JavaScript, Libraries and Frameworks of Javascript, and CMS platforms. Committed to delivering high-quality projects on time, leveraging a deep understanding of client needs and industry trends, and many more.
 
 
