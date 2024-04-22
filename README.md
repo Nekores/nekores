@@ -18,7 +18,7 @@ I am an experienced web developer with 8 years in freelancing, delivering except
 ## Programming languages & Libraries:
 
 <details>
-    <summary>view list...</summary>
+    <summary>Hide / Show</summary>
     <ul>
         <li>HTML</li>
         <li>CSS</li>
@@ -38,7 +38,7 @@ I am an experienced web developer with 8 years in freelancing, delivering except
 ## Frameworks:
 
 <details>
-    <summary>view list...</summary>
+    <summary>Hide / Show</summary>
     <ul>
         <li>Material UI</li>
         <li>Bootstrap</li>
@@ -52,7 +52,7 @@ I am an experienced web developer with 8 years in freelancing, delivering except
 ## More techniclal & soft skills:
 
 <details>
-    <summary>view list...</summary>
+    <summary>Hide / Show</summary>
     <ul>
         <li>Functional UI Implementaion</li>
         <li>Pixel Perfect</li>
